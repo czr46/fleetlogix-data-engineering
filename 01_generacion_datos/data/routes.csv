@@ -1,0 +1,49 @@
+route_id,route_code,origin_city,destination_city,distance_km,estimated_duration_hours,toll_cost
+1,R001,Ciudad de México,Guadalajara,587.22,7.63,1000
+2,R002,Ciudad de México,Guadalajara,504.25,6.77,1000
+3,R003,Ciudad de México,Guadalajara,514.05,7.86,1000
+4,R004,Ciudad de México,Monterrey,957.37,13.29,1800
+5,R005,Ciudad de México,Monterrey,977.36,15.33,1800
+6,R006,Ciudad de México,Monterrey,966.17,12.97,1800
+7,R007,Ciudad de México,Puebla,135.89,1.95,200
+8,R008,Ciudad de México,Puebla,166.95,2.5,200
+9,R009,Ciudad de México,Puebla,175.7,2.91,200
+10,R010,Ciudad de México,Tijuana,2823.72,35.63,5600
+11,R011,Ciudad de México,Tijuana,2741.73,34.28,5400
+12,R012,Ciudad de México,Tijuana,2777.89,42.83,5400
+13,R013,Guadalajara,Ciudad de México,555.44,8.67,1000
+14,R014,Guadalajara,Ciudad de México,586.51,8.26,1000
+15,R015,Guadalajara,Ciudad de México,572.55,8.47,1000
+16,R016,Guadalajara,Monterrey,803.37,11.96,1600
+17,R017,Guadalajara,Monterrey,776.16,11.05,1400
+18,R018,Guadalajara,Puebla,499.73,8.06,800
+19,R019,Guadalajara,Puebla,548.13,7.9,1000
+20,R020,Guadalajara,Tijuana,2283.97,29.17,4400
+21,R021,Guadalajara,Tijuana,2237.07,32.76,4400
+22,R022,Monterrey,Ciudad de México,946.25,14.69,1800
+23,R023,Monterrey,Ciudad de México,904.59,13.87,1800
+24,R024,Monterrey,Ciudad de México,983.48,13.74,1800
+25,R025,Monterrey,Guadalajara,791.76,12.56,1400
+26,R026,Monterrey,Guadalajara,782.99,11.58,1400
+27,R027,Monterrey,Puebla,1033.34,14.76,2000
+28,R028,Monterrey,Puebla,1015.46,13.78,2000
+29,R029,Monterrey,Tijuana,1645.73,21.53,3200
+30,R030,Monterrey,Tijuana,1716.65,23.57,3400
+31,R031,Puebla,Ciudad de México,129.06,2.04,200
+32,R032,Puebla,Ciudad de México,159.5,2.52,200
+33,R033,Puebla,Ciudad de México,152.03,2.18,200
+34,R034,Puebla,Guadalajara,541.69,7.65,1000
+35,R035,Puebla,Guadalajara,514.18,8.41,1000
+36,R036,Puebla,Monterrey,953.38,12.39,1800
+37,R037,Puebla,Monterrey,1044.52,14.24,2000
+38,R038,Puebla,Tijuana,2876.43,42.15,5600
+39,R039,Puebla,Tijuana,2884.25,44.63,5600
+40,R040,Tijuana,Ciudad de México,2800.72,46.54,5600
+41,R041,Tijuana,Ciudad de México,2780.57,41.22,5400
+42,R042,Tijuana,Ciudad de México,2791.78,38.07,5400
+43,R043,Tijuana,Guadalajara,2261.65,32.47,4400
+44,R044,Tijuana,Guadalajara,2248.79,37.4,4400
+45,R045,Tijuana,Monterrey,1675.16,27.81,3200
+46,R046,Tijuana,Monterrey,1672.94,25.54,3200
+47,R047,Tijuana,Puebla,2897.75,48.02,5600
+48,R048,Tijuana,Puebla,2881.32,39.21,5600

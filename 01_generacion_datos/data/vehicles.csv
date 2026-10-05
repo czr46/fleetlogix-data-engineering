@@ -1,0 +1,201 @@
+vehicle_id,license_plate,vehicle_type,capacity_kg,fuel_type,acquisition_date,status
+1,UDA-125,Van,1346.94,Gasolina,2023-10-04,active
+2,HHE-204,Camión Grande,4173.88,Diésel,2022-04-16,active
+3,VXR-130,Camión Mediano,2662.37,Diésel,2022-02-27,active
+4,SNB-127,Camión Mediano,2638.61,Diésel,2021-09-02,active
+5,CGH-658,Van,1332.26,Gasolina,2025-09-19,active
+6,TAR-928,Camión Mediano,3310.57,Diésel,2023-02-09,active
+7,WUW-532,Camión Grande,4555.74,Diésel,2026-01-20,active
+8,NHO-881,Camión Grande,4204.42,Diésel,2023-10-14,active
+9,ZAY-467,Camión Mediano,3124.47,Diésel,2022-10-11,active
+10,WNK-847,Van,1521.74,Gasolina,2023-10-13,active
+11,EGY-487,Motocicleta,51.04,Gasolina,2024-04-12,active
+12,DCM-733,Van,1546.41,Gasolina,2022-03-29,active
+13,LLT-146,Van,1663.84,Gasolina,2023-09-01,active
+14,ZBX-975,Motocicleta,57.33,Gasolina,2025-04-29,active
+15,RDM-564,Camión Mediano,2595.18,Diésel,2022-02-01,active
+16,RJU-786,Camión Mediano,3242.18,Diésel,2024-06-29,active
+17,SGW-173,Van,1580.99,Gasolina,2022-01-04,maintenance
+18,BVH-350,Camión Mediano,2954.71,Diésel,2023-11-18,active
+19,CHD-755,Camión Grande,4439.23,Diésel,2024-08-26,active
+20,IOU-886,Camión Mediano,2674.86,Diésel,2024-07-09,active
+21,FLL-423,Camión Grande,4535.48,Diésel,2023-03-14,active
+22,VIW-680,Camión Grande,4425.25,Diésel,2022-01-09,active
+23,TUF-758,Camión Mediano,2571.45,Diésel,2025-12-17,active
+24,XHF-862,Camión Grande,5077.95,Diésel,2025-05-08,active
+25,MIU-538,Van,1439.64,Gasolina,2026-02-26,maintenance
+26,HVK-241,Camión Grande,4987.03,Diésel,2021-11-22,active
+27,HBZ-981,Van,1291.7,Gasolina,2024-02-07,active
+28,MIC-796,Camión Grande,5192.82,Diésel,2023-03-19,active
+29,SWK-710,Camión Mediano,3034.94,Diésel,2023-03-24,active
+30,UPM-981,Motocicleta,53.61,Gasolina,2025-04-27,active
+31,EIE-649,Camión Grande,5537.2,Diésel,2023-07-08,active
+32,XRR-400,Camión Mediano,2589.79,Diésel,2023-08-27,active
+33,XSN-839,Camión Grande,5943.78,Diésel,2026-05-19,active
+34,MLH-619,Van,1722.31,Gasolina,2022-08-05,active
+35,QPC-754,Camión Grande,5217.94,Diésel,2021-10-26,active
+36,DEU-880,Camión Grande,5078.76,Diésel,2022-10-12,active
+37,ZVN-643,Van,1559.37,Gasolina,2021-12-16,active
+38,MMT-214,Camión Mediano,3454.47,Diésel,2025-05-26,active
+39,QIR-414,Van,1234.76,Gasolina,2021-07-07,active
+40,VXD-180,Van,1639.14,Gasolina,2025-12-26,active
+41,YIY-878,Van,1659.5,Gasolina,2024-04-23,active
+42,DJN-586,Camión Grande,4330.25,Diésel,2022-10-06,active
+43,OAX-721,Camión Mediano,3557.24,Diésel,2023-08-29,active
+44,QYF-873,Motocicleta,54.26,Gasolina,2025-09-26,active
+45,DUJ-787,Camión Mediano,2925.72,Diésel,2025-09-26,active
+46,TGE-223,Camión Mediano,2669.64,Diésel,2024-08-06,active
+47,YFR-702,Camión Mediano,2676.14,Diésel,2025-12-05,active
+48,ATK-172,Camión Grande,4457.88,Diésel,2025-07-29,active
+49,ADL-980,Motocicleta,41.42,Gasolina,2024-01-13,active
+50,HBH-785,Camión Grande,4428.47,Diésel,2026-03-30,active
+51,CCX-684,Camión Grande,4945.34,Diésel,2025-07-20,maintenance
+52,CYR-926,Van,1314.25,Gasolina,2022-06-27,active
+53,EVP-541,Camión Grande,4847.16,Diésel,2026-02-04,active
+54,FIQ-846,Camión Mediano,3208.04,Diésel,2025-01-06,active
+55,GRY-200,Motocicleta,48.05,Gasolina,2023-02-16,active
+56,WJM-982,Camión Mediano,2698.39,Diésel,2024-08-05,active
+57,OQO-559,Camión Grande,4843.76,Diésel,2022-06-12,active
+58,HHC-355,Camión Grande,4886.26,Diésel,2024-04-17,active
+59,ASR-663,Van,1230.35,Gasolina,2023-05-17,active
+60,SHA-956,Motocicleta,59.38,Gasolina,2022-01-08,active
+61,WUB-969,Motocicleta,43.33,Gasolina,2023-05-14,active
+62,CBK-318,Camión Mediano,3482.93,Diésel,2022-01-08,active
+63,QHI-102,Camión Grande,4530.41,Diésel,2025-07-19,active
+64,GRE-565,Van,1453.8,Gasolina,2026-04-11,active
+65,SPH-902,Motocicleta,53.24,Gasolina,2025-06-10,active
+66,ZNG-294,Camión Mediano,2661.24,Diésel,2022-03-22,active
+67,DVN-853,Camión Grande,4121.92,Diésel,2024-06-06,active
+68,NNO-151,Camión Mediano,2972.15,Diésel,2021-11-17,maintenance
+69,VUU-643,Motocicleta,41.14,Gasolina,2022-04-03,active
+70,BMX-971,Camión Mediano,2482.23,Diésel,2024-04-21,active
+71,ZDH-982,Camión Grande,4807.55,Diésel,2023-01-18,active
+72,GRO-683,Motocicleta,51.58,Gasolina,2022-08-11,active
+73,NFI-183,Camión Grande,5314.75,Diésel,2025-05-09,active
+74,HCO-423,Camión Mediano,2645.11,Diésel,2026-02-05,active
+75,DBU-344,Van,1437.47,Gasolina,2026-01-06,active
+76,ACY-407,Van,1389.71,Gasolina,2023-06-06,active
+77,FNP-174,Van,1474.97,Gasolina,2025-07-06,active
+78,GMB-202,Motocicleta,50.75,Gasolina,2022-10-26,active
+79,MAM-235,Camión Mediano,3457.04,Diésel,2023-09-03,active
+80,ZZO-478,Van,1294.65,Gasolina,2023-11-05,active
+81,NWX-820,Van,1567.01,Gasolina,2026-02-22,active
+82,VWP-769,Motocicleta,40.16,Gasolina,2022-09-25,active
+83,GJG-406,Van,1763.36,Gasolina,2021-11-30,active
+84,SXR-218,Camión Grande,5484.83,Diésel,2021-12-08,active
+85,XKB-388,Camión Grande,4421.26,Diésel,2021-11-04,maintenance
+86,SPQ-803,Camión Mediano,3006.49,Diésel,2025-12-08,active
+87,FBQ-966,Camión Grande,4184.6,Diésel,2022-02-05,active
+88,FCT-383,Camión Mediano,2404.25,Diésel,2021-12-30,active
+89,VHM-752,Van,1296.95,Gasolina,2022-06-09,active
+90,SHS-822,Camión Mediano,3073.09,Diésel,2021-10-03,active
+91,TCN-807,Camión Grande,5091.18,Diésel,2026-05-20,active
+92,SQK-696,Van,1288.86,Gasolina,2023-08-21,active
+93,GVW-415,Camión Grande,5797.96,Diésel,2024-02-03,active
+94,HIM-981,Van,1739.35,Gasolina,2022-07-13,active
+95,VUJ-355,Camión Grande,4707.36,Diésel,2025-04-22,active
+96,KYC-995,Camión Mediano,3568.6,Diésel,2021-06-30,active
+97,OTS-342,Van,1785.72,Gasolina,2022-04-08,active
+98,CRG-522,Van,1307.62,Gasolina,2025-09-20,active
+99,IEL-901,Motocicleta,56.04,Gasolina,2022-01-01,active
+100,HLJ-930,Van,1360.08,Gasolina,2022-10-05,active
+101,ORW-210,Van,1723.3,Gasolina,2023-12-28,active
+102,TZU-327,Van,1689.95,Gasolina,2025-12-01,active
+103,AVR-412,Camión Mediano,2667.51,Diésel,2023-12-19,active
+104,VDE-508,Van,1367.16,Gasolina,2023-09-01,active
+105,DDX-891,Camión Grande,4702.29,Diésel,2026-02-14,active
+106,EIJ-795,Camión Mediano,2797.38,Diésel,2023-03-18,active
+107,WKG-998,Camión Grande,4357.14,Diésel,2023-08-31,active
+108,QPI-371,Motocicleta,42.17,Gasolina,2021-11-06,active
+109,CUN-846,Camión Mediano,2923.67,Diésel,2023-10-09,active
+110,BAK-218,Motocicleta,57.99,Gasolina,2022-07-13,active
+111,UIF-145,Camión Grande,4003.38,Diésel,2025-03-05,active
+112,RWN-651,Motocicleta,47.28,Gasolina,2026-03-10,active
+113,ADC-780,Camión Grande,5246.31,Diésel,2022-09-08,active
+114,RBL-227,Van,1504.27,Gasolina,2026-05-16,active
+115,REN-434,Van,1618.33,Gasolina,2022-07-02,active
+116,BJL-296,Camión Mediano,3197.92,Diésel,2021-10-03,active
+117,LGV-866,Camión Mediano,3138.62,Diésel,2023-07-17,active
+118,VDL-661,Camión Mediano,2764.65,Diésel,2026-03-07,active
+119,NTX-904,Camión Grande,5213.32,Diésel,2022-09-25,maintenance
+120,HFZ-552,Camión Mediano,3210.75,Diésel,2022-12-04,active
+121,NAF-912,Camión Mediano,3190.62,Diésel,2024-03-30,active
+122,ZNZ-779,Camión Grande,4670.38,Diésel,2023-07-13,maintenance
+123,IFZ-869,Van,1603.68,Gasolina,2022-05-03,active
+124,MBP-303,Camión Grande,4048.85,Diésel,2023-04-24,active
+125,GOL-586,Camión Grande,5699.48,Diésel,2024-01-06,maintenance
+126,ZHH-524,Camión Grande,4388.87,Diésel,2021-08-14,maintenance
+127,VGM-606,Van,1346.39,Gasolina,2024-03-17,active
+128,ICY-105,Van,1667.05,Gasolina,2023-10-17,active
+129,LUQ-923,Camión Grande,4929.1,Diésel,2024-10-25,active
+130,VRK-968,Camión Mediano,2947.75,Diésel,2021-08-26,active
+131,DIF-783,Van,1792.74,Gasolina,2026-05-10,active
+132,IBD-873,Camión Mediano,3135.18,Diésel,2025-02-11,active
+133,LXZ-616,Van,1698.34,Gasolina,2024-02-01,active
+134,NTQ-262,Camión Mediano,2940.08,Diésel,2022-05-27,active
+135,MSG-960,Van,1659.49,Gasolina,2023-08-02,active
+136,BWN-741,Camión Mediano,2729.52,Diésel,2021-06-07,active
+137,QZR-392,Camión Grande,4543.43,Diésel,2023-02-04,active
+138,LNC-653,Camión Mediano,2566.05,Diésel,2024-03-23,active
+139,TKV-810,Camión Grande,5412.84,Diésel,2022-06-24,active
+140,XJQ-517,Camión Grande,5085.22,Diésel,2024-01-18,active
+141,VNK-311,Camión Mediano,2867.37,Diésel,2024-11-03,active
+142,WJR-812,Van,1714.04,Gasolina,2022-07-02,active
+143,GNV-489,Van,1203.54,Gasolina,2024-08-22,active
+144,VXF-871,Camión Mediano,3424.14,Diésel,2026-04-05,active
+145,JMR-529,Motocicleta,54.95,Gasolina,2021-06-03,active
+146,JJG-717,Camión Mediano,2985.88,Diésel,2025-01-27,active
+147,ZST-597,Camión Grande,4777.71,Diésel,2024-02-28,active
+148,OOO-917,Van,1634.51,Gasolina,2023-03-27,active
+149,QPZ-230,Van,1520.47,Gasolina,2022-11-11,maintenance
+150,VCJ-706,Motocicleta,53.26,Gasolina,2025-10-20,maintenance
+151,VUT-538,Camión Grande,5733.7,Diésel,2024-04-08,active
+152,CYH-366,Camión Grande,4654.71,Diésel,2024-01-22,active
+153,HZG-445,Camión Mediano,2733.91,Diésel,2022-09-02,active
+154,ABH-531,Motocicleta,56.7,Gasolina,2025-06-17,active
+155,TYC-867,Camión Mediano,2462.5,Diésel,2025-04-16,active
+156,NUS-329,Motocicleta,55.62,Gasolina,2023-01-27,active
+157,WWM-872,Van,1769.77,Gasolina,2025-08-15,active
+158,MHE-120,Camión Grande,4304.76,Diésel,2021-06-19,maintenance
+159,YYD-785,Camión Grande,5127.94,Diésel,2025-01-12,active
+160,HFZ-816,Camión Grande,5533.8,Diésel,2025-10-28,active
+161,OBR-721,Camión Grande,5555.58,Diésel,2023-07-16,active
+162,DOE-418,Camión Grande,5157.37,Diésel,2025-05-15,active
+163,VQR-689,Motocicleta,47.93,Gasolina,2024-02-12,active
+164,YOT-177,Van,1614.37,Gasolina,2025-09-17,maintenance
+165,NRO-204,Van,1710.18,Gasolina,2022-10-09,active
+166,XPO-223,Van,1669.58,Gasolina,2023-08-16,maintenance
+167,YHU-538,Camión Mediano,2482.75,Diésel,2023-10-11,active
+168,YYQ-112,Van,1693.4,Gasolina,2025-07-16,active
+169,UHI-470,Camión Grande,5414.62,Diésel,2025-02-27,active
+170,CWJ-851,Camión Mediano,3558.57,Diésel,2023-05-31,active
+171,IKK-927,Camión Grande,5549.28,Diésel,2026-01-05,active
+172,CEE-945,Camión Mediano,2722.07,Diésel,2023-05-21,maintenance
+173,MWE-950,Van,1367.36,Gasolina,2023-03-28,active
+174,CNN-868,Camión Mediano,3083.82,Diésel,2024-03-26,active
+175,RON-444,Van,1496.58,Gasolina,2021-12-12,active
+176,GNM-599,Camión Mediano,2825.79,Diésel,2026-05-21,active
+177,WAY-386,Camión Grande,5402.37,Diésel,2026-04-25,maintenance
+178,MPA-110,Camión Grande,5896.13,Diésel,2024-05-29,active
+179,JYM-837,Camión Grande,4977.16,Diésel,2024-12-24,active
+180,RXX-807,Van,1587.54,Gasolina,2026-01-23,active
+181,ZTH-911,Camión Mediano,2511.66,Diésel,2025-07-27,active
+182,HIN-808,Camión Grande,4612.41,Diésel,2025-07-19,active
+183,AMK-584,Camión Mediano,3037.11,Diésel,2024-11-09,active
+184,XFO-863,Camión Mediano,2796.95,Diésel,2022-07-03,active
+185,TRA-377,Van,1350.84,Gasolina,2024-10-08,active
+186,SSV-297,Camión Grande,4239.11,Diésel,2021-08-25,active
+187,CUN-880,Camión Mediano,2629.85,Diésel,2022-07-28,active
+188,OFB-383,Van,1785.96,Gasolina,2023-08-19,maintenance
+189,MKG-389,Camión Mediano,3399.15,Diésel,2025-04-14,active
+190,KKY-469,Camión Grande,4604.54,Diésel,2024-08-22,active
+191,IYN-229,Van,1227.31,Gasolina,2023-07-25,active
+192,CPA-399,Camión Grande,5275.74,Diésel,2026-01-02,active
+193,BLH-205,Van,1544.44,Gasolina,2022-01-01,active
+194,YUB-551,Camión Mediano,2621.24,Diésel,2021-09-06,active
+195,HGA-982,Camión Grande,4228.17,Diésel,2022-09-18,active
+196,HEP-603,Camión Grande,5154.04,Diésel,2022-05-23,active
+197,SGO-255,Van,1686.69,Gasolina,2023-08-07,active
+198,YLF-187,Motocicleta,42.37,Gasolina,2022-05-23,active
+199,YFJ-720,Van,1674.44,Gasolina,2022-05-03,maintenance
+200,SAJ-635,Camión Grande,4901.03,Diésel,2026-04-25,active

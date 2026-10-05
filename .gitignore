@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.log
+catboost_info/
+.DS_Store
